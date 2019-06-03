@@ -5,3 +5,4 @@ Git tracks changes of files.
 test
 dev commit
 master commit
+feature commit
